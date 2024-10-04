@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20Nima%20mahdian%20-nl-Generative%20AI%20Engineer&fontAlign=22&fontSize=33&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=0&reversal=false)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimamahdian&label=Profile%20views&color=0e75b6&style=flat" alt="nimamahdian" /> </p>
 
 - 📫 How to reach me **nima8501.mahdian@gmail.com**
